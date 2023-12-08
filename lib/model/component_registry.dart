@@ -39,9 +39,6 @@ class ComponentRegistry {
       "notificationDashboards",
     ]);
 
-    Apis.apis().getRegistryApi().register(
-        componentName: "eliud_pkg_notifications_model_internalWidgets",
-        componentConstructor: ListComponentFactory());
     Apis.apis().getRegistryApi().addDropDownSupporter(
         "notificationDashboards", DropdownButtonComponentFactory());
     Apis.apis().getRegistryApi().register(

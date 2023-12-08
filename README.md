@@ -1,17 +1,14 @@
-# eliud_pkg_notifications
+# eliud_pkg_notifications_model
 
-Eliud notifications package
+Eliud notifications model package
 
 ## Dependency diagram
 
-![Dependency diagram](https://github.com/eliudio/eliud_pkg_notifications/raw/main/depends.jpg)
+![Dependency diagram](https://github.com/eliudio/eliud_pkg_notifications_model/raw/main/depends.jpg)
 
 ### links
 |Package                                                                    |Description                                            |
 |---------------------------------------------------------------------------|-------------------------------------------------------|
-|[eliud_pkg_notifications](https://pub.dev/packages/eliud_pkg_notifications)| This package                                          |
-|[eliud_core](https://pub.dev/packages/eliud_core)                          | Eliud core package                                    |
-|[eliud_generator](https://pub.dev/packages/eliud_generator)                | Eliud generator                                       |
 
 ## eliud.io
 
