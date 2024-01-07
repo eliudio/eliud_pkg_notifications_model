@@ -1,17 +1,45 @@
 # eliud_pkg_notifications_model
 
-Eliud notifications model package
+Eliud "notifications" package. 
+This package is part of eliud technology. More information, see https://eliud.io
 
-## Dependency diagram
+---
+
+## Table of contents
+
+<!-- toc -->
+
+- [Appendix A. Dependencies](#appendix-a-dependencies)
+  * [The dependency diagram](#the-dependency-diagram)
+  * [Links](#links-)
+
+<!-- tocstop -->
+
+---
+
+## Introduction
+
+The "notifications" model package.
+
+---
+
+## Appendix A. Dependencies
+
+### The dependency diagram
 
 ![Dependency diagram](https://github.com/eliudio/eliud_pkg_notifications_model/raw/main/depends.jpg)
 
-### links
-|Package                                                                    |Description                                            |
-|---------------------------------------------------------------------------|-------------------------------------------------------|
+<!-- dependencies -->
 
-## eliud.io
+### Direct dependencies
+- [eliud_core_main](https://pub.dev/packages/eliud_core_main)
 
-This package / app is part of the eliud.io project
+### Transitive dependencies
+- [eliud_core_helpers](https://pub.dev/packages/eliud_core_helpers)
 
-More information, see https://eliud.io
+### Dev dependencies
+- [eliud_generator](https://pub.dev/packages/eliud_generator)
+
+<!-- dependenciesstop -->
+
+---
